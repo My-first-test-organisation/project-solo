@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(13, 170, 175);
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.channel-list {
+	margin: 0;
+	display: flex;
+	width: 900px;
+	flex-wrap: wrap;
+}

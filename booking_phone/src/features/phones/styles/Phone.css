@@ -1,0 +1,18 @@
+.container-phone{
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.phone-item{
+  max-width: 1000px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+.card{
+  margin: 20px;
+}
+
